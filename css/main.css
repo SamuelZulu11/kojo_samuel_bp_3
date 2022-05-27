@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+#hole-page {
+    margin: 0 auto;
+}
+.nav-link {
+    color: #000;
+}
+.nav-link:hover {
+    color: #8f7247;
+}
+.btn {
+    background-color: #8f7247;
+    border: none;
+    border-radius: 50px;
+    padding: 10px 39px;
+}
+
